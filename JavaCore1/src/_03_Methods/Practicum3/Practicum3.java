@@ -1,4 +1,4 @@
-package Practicum3;
+package _03_Methods.Practicum3;
 
 import java.util.Scanner;
 
